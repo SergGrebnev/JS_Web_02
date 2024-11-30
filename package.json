@@ -1,0 +1,24 @@
+{
+    "name": "02_node",
+    "version": "1.0.0",
+    "description": "JS_Web_Node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "SergGrebnev",
+    "license": "ISC",
+    "devDependencies": {
+        "@eslint/compat": "^1.2.3",
+        "@eslint/eslintrc": "^3.2.0",
+        "@eslint/js": "^9.16.0",
+        "eslint": "^9.16.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "eslint-plugin-react": "^7.37.2",
+        "globals": "^15.12.0",
+        "prettier": "3.4.1"
+    }
+}
